@@ -6,6 +6,7 @@
     "name": "Manuel Martín",
     "email": "hola@manuelmartin.dev"
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/manuelmartin-developer/hooli-left"
