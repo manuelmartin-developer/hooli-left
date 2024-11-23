@@ -13,3 +13,10 @@
 ### Added
 
 - icon for extension marketplace
+
+## [0.0.3] - 2024-11-23
+
+### Changed
+
+- README.md
+- Icon for extension marketplace
