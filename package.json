@@ -1,17 +1,19 @@
 {
   "name": "hooli-left",
   "displayName": "Hooli left ⬅️",
-  "description": "Because closing tabs on the left is also cool...",
+  "description": "Because closing tabs to the left is also cool...",
   "author": {
     "name": "Manuel Martín",
     "email": "hola@manuelmartin.dev"
   },
+  "icon": "images/icon.png",
+  "publisher": "mmartindj",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/manuelmartin-developer/hooli-left"
   },
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.95.0"
   },
