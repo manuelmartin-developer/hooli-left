@@ -20,3 +20,9 @@
 
 - README.md
 - Icon for extension marketplace
+
+## [0.0.4] - 2025-03-10
+
+### Added
+
+- Spanish translation
